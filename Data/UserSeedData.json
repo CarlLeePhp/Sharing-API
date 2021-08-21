@@ -1,0 +1,28 @@
+[
+
+  {
+    "Email": "jack@gmail.com",
+    "UserName": "Jack",
+    "Gender": true
+  },
+  {
+    "Email": "lucia@gmail.com",
+    "UserName": "Lucia",
+    "Gender": false
+  },
+  {
+    "Email": "carl@gmail.com",
+    "UserName": "Carl",
+    "Gender": true
+  },
+  {
+    "Email": "ivy@gmail.com",
+    "UserName": "Ivy",
+    "Gender": false
+  },
+  {
+    "Email": "david@gmail.com",
+    "UserName": "David",
+    "Gender": true
+  }
+]
